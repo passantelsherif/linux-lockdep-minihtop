@@ -27,21 +27,21 @@ All components were developed and tested using a **Linux Virtual Machine environ
 
 ├── part1_deadlock/
 
-│   └── deadlock_module.c
+│    └── deadlock_module.c
 
 ├── part2_mini_lockdep/
 
-│   └── mini_lockdep.c
+│    └── mini_lockdep.c
 
 ├── part3_mini_htop/
 
-│   └── mini_htop.c
+│    └── mini_htop.c
  
 ├── images/
 
-│   └── dmesg-output.png
+│    └── dmesg-output.png
 
-│   └── mini-htop.png
+│    └── mini-htop.png
 
 ├── Makefile
 
